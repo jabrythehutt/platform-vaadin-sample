@@ -12,6 +12,6 @@ This project demonstrates the use of global method security ([Spring security](h
 
 ## An even quicker start ##
 
-1. Launch in the cloud with [Codenvy](https://codenvy.com/f?id=br0pfe7louypkpvs)
-2. Click "Run"
+1. Launch in the cloud with [Codenvy](https://codenvy.com/f?id=6lvxcm9yx9asfdby)
+2. Click "Run" (You can adjust the RAM to 512mb with the "Custom Run" menu item if the application defaults to 1024mb)
 3. Log in as username: "john.smith" password: "password"
