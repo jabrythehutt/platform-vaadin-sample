@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/vaadin/account/AccountEvent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/vaadin/account/AccountEventFilter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/vaadin/account/LoginAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/vaadin/account/LogoutAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/vaadin/config/ApplicationInitializer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/vaadin/config/StartupUsersSignup.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/vaadin/config/WebConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/vaadin/config/WebSecurityConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/vaadin/navigation/NavigationSecurity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/vaadin/presenter/Action.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/vaadin/presenter/BannerPresenter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/vaadin/presenter/HomePresenter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/vaadin/presenter/LoginPresenter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/vaadin/presenter/SamplePresenter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/vaadin/presenter/Sections.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/vaadin/presenter/SideBarPresenter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/vaadin/presenter/StartupFilter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/vaadin/ui/MainUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/vaadin/view/AccountProfileView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/vaadin/view/BannerView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/vaadin/view/BaseMainViewAbstr.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/vaadin/view/HomeView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/vaadin/view/LoginView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/vaadin/view/SampleView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/vaadin/view/SideBarView.java" charset="UTF-8" />
+  </component>
+</project>
